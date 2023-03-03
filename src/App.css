@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.search{
+  width: 350px;
+  box-shadow: 8px 4px 8px 4px rgba(0,0,0,0.20);
+}
+
+.background{
+  background-color: aquamarine;
+}
+
+#btn-pagination{
+  background-color: rgba(64, 0, 255, 0.773);
+}
